@@ -133,7 +133,7 @@ This repository uses the Animals-10 dataset from Kaggle:
 https://www.kaggle.com/datasets/alessiocorrado99/animals10
 
 - Download and unzip the dataset.
-- Rename the top-level folder to `data/animals` (or create a symlink).
+- Rename the top-level folder to `animals`.
 - Ensure the class folders are normalized to clean names (e.g. `cat`, `dog`, `horse`, etc.)
 
 ```
