@@ -137,21 +137,18 @@ https://www.kaggle.com/datasets/alessiocorrado99/animals10
 - Ensure the class folders are normalized to clean names (e.g. `cat`, `dog`, `horse`, etc.)
 
 ```
-data/
-├── animals/
-│   ├── cat/
-│   │   ├── image1.jpg
-│   │   ├── image2.jpg
-│   │   └── ...
-│   ├── dog/
-│   │   ├── image1.jpg
-│   │   └── ...
-│   ├── horse/
-│   │   └── ...
-│   └── ... (10 classes from Animals-10)
-└── annotations/
-    ├── ner_train.json
-    └── image_splits.json
+ animals/
+├── cat/
+│   ├── image1.jpg
+│   ├── image2.jpg
+│   └── ...
+├── dog/
+│   ├── image1.jpg
+│   └── ...
+├── horse/
+│   └── ...
+└── ... (10 classes from Animals-10)
+
 ```
 
 ## Installation
