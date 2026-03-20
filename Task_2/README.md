@@ -1,4 +1,4 @@
-# Animal Verification Pipeline: NER + Image Classification
+# Task 2. Animal Verification Pipeline: NER + Image Classification
 
 A comprehensive machine learning pipeline that combines Named Entity Recognition (NER) and Image Classification to verify if a text description matches an image containing an animal.
 
